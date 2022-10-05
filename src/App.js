@@ -4,5 +4,10 @@ import { Grid, Container, Typography } from "@mui/material";
 import Page from "./components/Page";
 
 export default function App() {
-  return <Router />;
+  return (
+    // <Router />;
+    <div>
+      <h1>test</h1>
+    </div>
+  );
 }
